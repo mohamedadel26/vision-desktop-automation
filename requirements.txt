@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pyautogui
+pillow
+curl-cffi
+pywin32
